@@ -1,1 +1,20 @@
+body{
+background-color: #bebebe;
+color: black;
+font-size: 22px; 
+}
+h1{
+border: solid blue 2px;
+background-color: black;
+text-align: center; 
+color: lime;
+font-size: 35px;
+}
+h2{
+}
+h3{
+}
+input{
+}
+
 
